@@ -1,0 +1,705 @@
+{
+    "data": {
+        "mapFeatureCollection": {
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "id": "U2Nob29sOjE5NA==",
+                        "name": "Acorn Woodland Preschool",
+                        "nearby": false,
+                        "type": "School",
+                        "address": {
+                            "address1": "1025 81st Avenue",
+                            "address2": "",
+                            "city": "Oakland",
+                            "state": "CA",
+                            "zipCode": "94621",
+                            "__typename": "Address"
+                        },
+                        "__typename": "Property"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": "[-122.18558, 37.75313]",
+                        "__typename": "Point"
+                    },
+                    "__typename": "Feature"
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "id": "U2Nob29sOjE5NQ==",
+                        "name": "Allendale Preschool",
+                        "nearby": false,
+                        "type": "School",
+                        "address": {
+                            "address1": "3670 Penniman Ave.",
+                            "address2": "",
+                            "city": "Oakland",
+                            "state": "CA",
+                            "zipCode": "94619",
+                            "__typename": "Address"
+                        },
+                        "__typename": "Property"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": "[-122.20535, 37.78885]",
+                        "__typename": "Point"
+                    },
+                    "__typename": "Feature"
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "id": "U2Nob29sOjE5Ng==",
+                        "name": "Arroyo Viejo Preschool",
+                        "nearby": false,
+                        "type": "School",
+                        "address": {
+                            "address1": "1895 78th Ave.",
+                            "address2": "",
+                            "city": "Oakland",
+                            "state": "CA",
+                            "zipCode": "94621",
+                            "__typename": "Address"
+                        },
+                        "__typename": "Property"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": "[-122.17744, 37.76123]",
+                        "__typename": "Point"
+                    },
+                    "__typename": "Feature"
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "id": "U2Nob29sOjE5Nw==",
+                        "name": "Bella Vista Preschool",
+                        "nearby": false,
+                        "type": "School",
+                        "address": {
+                            "address1": "2410 10th Avenue",
+                            "address2": "",
+                            "city": "Oakland",
+                            "state": "CA",
+                            "zipCode": "94606",
+                            "__typename": "Address"
+                        },
+                        "__typename": "Property"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": "[-122.24003, 37.79886]",
+                        "__typename": "Point"
+                    },
+                    "__typename": "Feature"
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "id": "U2Nob29sOjE5OA==",
+                        "name": "Bridges Academy Preschool",
+                        "nearby": false,
+                        "type": "School",
+                        "address": {
+                            "address1": "1325 53rd Avenue",
+                            "address2": "",
+                            "city": "Oakland",
+                            "state": "CA",
+                            "zipCode": "94601",
+                            "__typename": "Address"
+                        },
+                        "__typename": "Property"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": "[-122.20675, 37.76767]",
+                        "__typename": "Point"
+                    },
+                    "__typename": "Feature"
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "id": "U2Nob29sOjE5OQ==",
+                        "name": "Brookfield Preschool",
+                        "nearby": false,
+                        "type": "School",
+                        "address": {
+                            "address1": "401 Jones Avenue",
+                            "address2": "",
+                            "city": "Oakland",
+                            "state": "CA",
+                            "zipCode": "94603",
+                            "__typename": "Address"
+                        },
+                        "__typename": "Property"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": "[-122.18861, 37.73629]",
+                        "__typename": "Point"
+                    },
+                    "__typename": "Feature"
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "id": "U2Nob29sOjIwMA==",
+                        "name": "Burbank Preschool Center",
+                        "nearby": false,
+                        "type": "School",
+                        "address": {
+                            "address1": "3550 64th Avenue",
+                            "address2": "",
+                            "city": "Oakland",
+                            "state": "CA",
+                            "zipCode": "94605",
+                            "__typename": "Address"
+                        },
+                        "__typename": "Property"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": "[-122.17755, 37.77561]",
+                        "__typename": "Point"
+                    },
+                    "__typename": "Feature"
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "id": "U2Nob29sOjIwMQ==",
+                        "name": "Centro Infantil De La Raza Preschool",
+                        "nearby": false,
+                        "type": "School",
+                        "address": {
+                            "address1": "2660 East 16th Street",
+                            "address2": "",
+                            "city": "Oakland",
+                            "state": "CA",
+                            "zipCode": "94601",
+                            "__typename": "Address"
+                        },
+                        "__typename": "Property"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": "[-122.23042, 37.78279]",
+                        "__typename": "Point"
+                    },
+                    "__typename": "Feature"
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "id": "U2Nob29sOjIwMw==",
+                        "name": "Emerson Preschool",
+                        "nearby": false,
+                        "type": "School",
+                        "address": {
+                            "address1": "4801 Lawton Avenue",
+                            "address2": "",
+                            "city": "Oakland",
+                            "state": "CA",
+                            "zipCode": "94609",
+                            "__typename": "Address"
+                        },
+                        "__typename": "Property"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": "[-122.25755, 37.83418]",
+                        "__typename": "Point"
+                    },
+                    "__typename": "Feature"
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "id": "U2Nob29sOjIwNA==",
+                        "name": "Fruitvale Preschool",
+                        "nearby": false,
+                        "type": "School",
+                        "address": {
+                            "address1": "3200 Boston Avenue",
+                            "address2": "",
+                            "city": "Oakland",
+                            "state": "CA",
+                            "zipCode": "94602",
+                            "__typename": "Address"
+                        },
+                        "__typename": "Property"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": "[-122.21384, 37.7967]",
+                        "__typename": "Point"
+                    },
+                    "__typename": "Feature"
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "id": "U2Nob29sOjIwNQ==",
+                        "name": "Garfield Preschool",
+                        "nearby": false,
+                        "type": "School",
+                        "address": {
+                            "address1": "1640 22nd Avenue",
+                            "address2": "",
+                            "city": "Oakland",
+                            "state": "CA",
+                            "zipCode": "94606",
+                            "__typename": "Address"
+                        },
+                        "__typename": "Property"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": "[-122.23553, 37.78686]",
+                        "__typename": "Point"
+                    },
+                    "__typename": "Feature"
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "id": "U2Nob29sOjIwNg==",
+                        "name": "Harriet Tubman Preschool",
+                        "nearby": false,
+                        "type": "School",
+                        "address": {
+                            "address1": "800 33rd Street",
+                            "address2": "",
+                            "city": "Oakland",
+                            "state": "CA",
+                            "zipCode": "94608",
+                            "__typename": "Address"
+                        },
+                        "__typename": "Property"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": "[-122.2742, 37.82372]",
+                        "__typename": "Point"
+                    },
+                    "__typename": "Feature"
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "id": "U2Nob29sOjIwNw==",
+                        "name": "Highland Preschool",
+                        "nearby": false,
+                        "type": "School",
+                        "address": {
+                            "address1": "1322 86th Avenue",
+                            "address2": "",
+                            "city": "Oakland",
+                            "state": "CA",
+                            "zipCode": "94621",
+                            "__typename": "Address"
+                        },
+                        "__typename": "Property"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": "[-122.17743, 37.75207]",
+                        "__typename": "Point"
+                    },
+                    "__typename": "Feature"
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "id": "U2Nob29sOjIwOA==",
+                        "name": "Hintil KUU CA Preschool",
+                        "nearby": false,
+                        "type": "School",
+                        "address": {
+                            "address1": "11850 Campus Drive",
+                            "address2": "",
+                            "city": "Oakland",
+                            "state": "CA",
+                            "zipCode": "94619",
+                            "__typename": "Address"
+                        },
+                        "__typename": "Property"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": "[-122.17517, 37.79473]",
+                        "__typename": "Point"
+                    },
+                    "__typename": "Feature"
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "id": "U2Nob29sOjIxMA==",
+                        "name": "International Preschool",
+                        "nearby": false,
+                        "type": "School",
+                        "address": {
+                            "address1": "2825 International Blvd",
+                            "address2": "",
+                            "city": "Oakland",
+                            "state": "CA",
+                            "zipCode": "94601",
+                            "__typename": "Address"
+                        },
+                        "__typename": "Property"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": "[-122.23008, 37.77971]",
+                        "__typename": "Point"
+                    },
+                    "__typename": "Feature"
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "id": "U2Nob29sOjIxMQ==",
+                        "name": "Jefferson Preschool",
+                        "nearby": false,
+                        "type": "School",
+                        "address": {
+                            "address1": "1975 40th Avenue",
+                            "address2": "",
+                            "city": "Oakland",
+                            "state": "CA",
+                            "zipCode": "94601",
+                            "__typename": "Address"
+                        },
+                        "__typename": "Property"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": "[-122.21468, 37.77837]",
+                        "__typename": "Point"
+                    },
+                    "__typename": "Feature"
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "id": "U2Nob29sOjIxMg==",
+                        "name": "Kaiser Early Childhood Center",
+                        "nearby": false,
+                        "type": "School",
+                        "address": {
+                            "address1": "25 S Hill Ct",
+                            "address2": "",
+                            "city": "Oakland",
+                            "state": "CA",
+                            "zipCode": "94618",
+                            "__typename": "Address"
+                        },
+                        "__typename": "Property"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": "[-122.23165, 37.85312]",
+                        "__typename": "Point"
+                    },
+                    "__typename": "Feature"
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "id": "U2Nob29sOjIxMw==",
+                        "name": "Laurel Preschool",
+                        "nearby": false,
+                        "type": "School",
+                        "address": {
+                            "address1": "11850 Campus Drive",
+                            "address2": "",
+                            "city": "Oakland",
+                            "state": "CA",
+                            "zipCode": "94619",
+                            "__typename": "Address"
+                        },
+                        "__typename": "Property"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": "[-122.17517, 37.79473]",
+                        "__typename": "Point"
+                    },
+                    "__typename": "Feature"
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "id": "U2Nob29sOjIxNA==",
+                        "name": "Lockwood Preschool",
+                        "nearby": false,
+                        "type": "School",
+                        "address": {
+                            "address1": "1125 69th Avenue",
+                            "address2": "",
+                            "city": "Oakland",
+                            "state": "CA",
+                            "zipCode": "94621",
+                            "__typename": "Address"
+                        },
+                        "__typename": "Property"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": "[-122.1926, 37.75929]",
+                        "__typename": "Point"
+                    },
+                    "__typename": "Feature"
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "id": "U2Nob29sOjIxNQ==",
+                        "name": "Lockwood STEAM Preschool",
+                        "nearby": false,
+                        "type": "School",
+                        "address": {
+                            "address1": "6701 International Blvd",
+                            "address2": "",
+                            "city": "Oakland",
+                            "state": "CA",
+                            "zipCode": "94621",
+                            "__typename": "Address"
+                        },
+                        "__typename": "Property"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": "[-122.19313, 37.7605]",
+                        "__typename": "Point"
+                    },
+                    "__typename": "Feature"
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "id": "U2Nob29sOjIxNg==",
+                        "name": "Manzanita Preschool",
+                        "nearby": false,
+                        "type": "School",
+                        "address": {
+                            "address1": "2618 Grande Vista Ave.",
+                            "address2": "",
+                            "city": "Oakland",
+                            "state": "CA",
+                            "zipCode": "94601",
+                            "__typename": "Address"
+                        },
+                        "__typename": "Property"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": "[-122.22597, 37.79228]",
+                        "__typename": "Point"
+                    },
+                    "__typename": "Feature"
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "id": "U2Nob29sOjIxNw==",
+                        "name": "Martin Luther King Preschool",
+                        "nearby": false,
+                        "type": "School",
+                        "address": {
+                            "address1": "960 10th Street",
+                            "address2": "",
+                            "city": "Oakland",
+                            "state": "CA",
+                            "zipCode": "94607",
+                            "__typename": "Address"
+                        },
+                        "__typename": "Property"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": "[-122.28337, 37.80587]",
+                        "__typename": "Point"
+                    },
+                    "__typename": "Feature"
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "id": "U2Nob29sOjIwOQ==",
+                        "name": "Oakland Academy of Knowledge Preschool",
+                        "nearby": false,
+                        "type": "School",
+                        "address": {
+                            "address1": "8755 Fontaine Street",
+                            "address2": "",
+                            "city": "Oakland",
+                            "state": "CA",
+                            "zipCode": "94605",
+                            "__typename": "Address"
+                        },
+                        "__typename": "Property"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": "[-122.15246, 37.76437]",
+                        "__typename": "Point"
+                    },
+                    "__typename": "Feature"
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "id": "U2Nob29sOjIxOA==",
+                        "name": "Place @ Prescott Preschool",
+                        "nearby": false,
+                        "type": "School",
+                        "address": {
+                            "address1": "920 Campbell Street",
+                            "address2": "",
+                            "city": "Oakland",
+                            "state": "CA",
+                            "zipCode": "94607",
+                            "__typename": "Address"
+                        },
+                        "__typename": "Property"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": "[-122.29785, 37.80862]",
+                        "__typename": "Point"
+                    },
+                    "__typename": "Feature"
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "id": "U2Nob29sOjIwMg==",
+                        "name": "Reach Academy Preschool",
+                        "nearby": false,
+                        "type": "School",
+                        "address": {
+                            "address1": "9860 Sunnyside St",
+                            "address2": "",
+                            "city": "Oakland",
+                            "state": "CA",
+                            "zipCode": "94603",
+                            "__typename": "Address"
+                        },
+                        "__typename": "Property"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": "[-122.16159, 37.74627]",
+                        "__typename": "Point"
+                    },
+                    "__typename": "Feature"
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "id": "U2Nob29sOjIxOQ==",
+                        "name": "Sankofa Preschool",
+                        "nearby": false,
+                        "type": "School",
+                        "address": {
+                            "address1": "581 61st Street",
+                            "address2": "",
+                            "city": "Oakland",
+                            "state": "CA",
+                            "zipCode": "94609",
+                            "__typename": "Address"
+                        },
+                        "__typename": "Property"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": "[-122.26435, 37.84712]",
+                        "__typename": "Point"
+                    },
+                    "__typename": "Feature"
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "id": "U2Nob29sOjIyMA==",
+                        "name": "Stonehurst Preschool",
+                        "nearby": false,
+                        "type": "School",
+                        "address": {
+                            "address1": "901 105th Avenue",
+                            "address2": "",
+                            "city": "Oakland",
+                            "state": "CA",
+                            "zipCode": "94603",
+                            "__typename": "Address"
+                        },
+                        "__typename": "Property"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": "[-122.174, 37.73611]",
+                        "__typename": "Point"
+                    },
+                    "__typename": "Feature"
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "id": "U2Nob29sOjIyMQ==",
+                        "name": "United Nation Preschool",
+                        "nearby": false,
+                        "type": "School",
+                        "address": {
+                            "address1": "1025 4th Ave.",
+                            "address2": "",
+                            "city": "Oakland",
+                            "state": "CA",
+                            "zipCode": "94606",
+                            "__typename": "Address"
+                        },
+                        "__typename": "Property"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": "[-122.24506, 37.79543]",
+                        "__typename": "Point"
+                    },
+                    "__typename": "Feature"
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "id": "U2Nob29sOjIyMg==",
+                        "name": "Yuk Yau Preschool",
+                        "nearby": false,
+                        "type": "School",
+                        "address": {
+                            "address1": "291 10th Street",
+                            "address2": "",
+                            "city": "Oakland",
+                            "state": "CA",
+                            "zipCode": "94607",
+                            "__typename": "Address"
+                        },
+                        "__typename": "Property"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": "[-122.26881, 37.79985]",
+                        "__typename": "Point"
+                    },
+                    "__typename": "Feature"
+                }
+            ],
+            "__typename": "FeatureCollection"
+        }
+    }
+}

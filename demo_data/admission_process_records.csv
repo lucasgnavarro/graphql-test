@@ -1,0 +1,6 @@
+id,name,subtitle,short_name_admin,short_name_display,application_target_type,display_in_public_school_directory
+QWRtaXNzaW9uUHJvY2Vzczox,Preschool,3-4 year olds,Preschool,Preschool,SCHOOL,True
+QWRtaXNzaW9uUHJvY2Vzczoy,Elementary School,TK - 5th Grade,Elementary School,Elementary School,SCHOOL,True
+QWRtaXNzaW9uUHJvY2Vzczoz,Middle School,6th–8th Grade,Middle School,Middle School,SCHOOL,True
+QWRtaXNzaW9uUHJvY2Vzczo0,High School,9th–12th Grade,High School,High School,SCHOOL,True
+QWRtaXNzaW9uUHJvY2Vzczo2,Summer Programs,2024 Season,Summer Programs,Summer Programs,PROGRAM,True

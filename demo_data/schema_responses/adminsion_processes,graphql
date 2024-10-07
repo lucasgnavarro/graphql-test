@@ -1,0 +1,74 @@
+{
+    "data": {
+        "admissionProcesses": {
+            "edges": [
+                {
+                    "node": {
+                        "id": "QWRtaXNzaW9uUHJvY2Vzczox",
+                        "name": "Preschool",
+                        "subtitle": "3-4 year olds",
+                        "shortNameAdmin": "Preschool",
+                        "shortNameDisplay": "Preschool",
+                        "applicationTargetType": "SCHOOL",
+                        "displayInPublicSchoolDirectory": true,
+                        "__typename": "AdmissionProcess"
+                    },
+                    "__typename": "AdmissionProcessesEdge"
+                },
+                {
+                    "node": {
+                        "id": "QWRtaXNzaW9uUHJvY2Vzczoy",
+                        "name": "Elementary School",
+                        "subtitle": "TK - 5th Grade",
+                        "shortNameAdmin": "Elementary School",
+                        "shortNameDisplay": "Elementary School",
+                        "applicationTargetType": "SCHOOL",
+                        "displayInPublicSchoolDirectory": true,
+                        "__typename": "AdmissionProcess"
+                    },
+                    "__typename": "AdmissionProcessesEdge"
+                },
+                {
+                    "node": {
+                        "id": "QWRtaXNzaW9uUHJvY2Vzczoz",
+                        "name": "Middle School",
+                        "subtitle": "6th\u20138th Grade",
+                        "shortNameAdmin": "Middle School",
+                        "shortNameDisplay": "Middle School",
+                        "applicationTargetType": "SCHOOL",
+                        "displayInPublicSchoolDirectory": true,
+                        "__typename": "AdmissionProcess"
+                    },
+                    "__typename": "AdmissionProcessesEdge"
+                },
+                {
+                    "node": {
+                        "id": "QWRtaXNzaW9uUHJvY2Vzczo0",
+                        "name": "High School",
+                        "subtitle": "9th\u201312th Grade",
+                        "shortNameAdmin": "High School",
+                        "shortNameDisplay": "High School",
+                        "applicationTargetType": "SCHOOL",
+                        "displayInPublicSchoolDirectory": true,
+                        "__typename": "AdmissionProcess"
+                    },
+                    "__typename": "AdmissionProcessesEdge"
+                },
+                {
+                    "node": {
+                        "id": "QWRtaXNzaW9uUHJvY2Vzczo2",
+                        "name": "Summer Programs",
+                        "subtitle": "2024 Season",
+                        "shortNameAdmin": "Summer Programs",
+                        "shortNameDisplay": "Summer Programs",
+                        "applicationTargetType": "PROGRAM",
+                        "displayInPublicSchoolDirectory": true,
+                        "__typename": "AdmissionProcess"
+                    },
+                    "__typename": "AdmissionProcessesEdge"
+                }
+            ],
+            "__typename": "AdmissionProcessesConnection"
+        }
+    }
+}

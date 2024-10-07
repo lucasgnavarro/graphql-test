@@ -1,0 +1,13 @@
+version: '3.8'
+services:
+  graphql:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/app
+    ports:
+      - "9595:8000"
+    env_file:
+      - .env
+    command: sh -c "python manage.py migrate; python manage.py runserver 0.0.0.0:8000"
